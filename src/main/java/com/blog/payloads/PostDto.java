@@ -1,6 +1,5 @@
 package com.blog.payloads;
 
-import com.blog.entities.*;
 import jakarta.validation.constraints.NotEmpty;
 import lombok.*;
 
